@@ -8,7 +8,7 @@
   /* https://awik.io/generate-random-images-unsplash-without-using-api/ */
   body {
    
-    background-image: url('https://source.unsplash.com/random/?city,love,night,nature');
+    background-image: url('https://source.unsplash.com/random/1920 x 1080/?city,love,night,nature');
 
   }
   .wrapper {
